@@ -1,0 +1,17 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\XUnitTestForHelloWorld.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\XUnitTestForHelloWorld.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\XUnitTestForHelloWorld.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\XUnitTestForHelloWorld.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\XUnitTestForHelloWorld.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\JenKinsWs\HelloWorld\XUnitTestForHelloWorld\obj\Debug\netcoreapp2.1\XUnitTestForHelloWorld.csproj.CopyComplete
